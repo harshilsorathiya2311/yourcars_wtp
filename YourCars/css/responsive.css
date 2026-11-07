@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    header nav ul {
+        gap: 1rem;
+    }
+
+    .details-container {
+        grid-template-columns: 1fr;
+    }
+
+    .filters-bar form {
+        flex-direction: column;
+    }
+
+    .filters-bar input, .filters-bar select, .filters-bar button {
+        width: 100%;
+    }
+}
