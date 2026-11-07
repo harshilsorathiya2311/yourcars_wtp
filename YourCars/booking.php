@@ -126,7 +126,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <footer class="site-footer">
         <div class="footer-container">
             <div class="footer-col">
-                <h3>🚗 YourCars</h3>
+                <h3>YourCars</h3>
                 <p>Your premier online destination for exploring, comparing, and booking test drives for the world's finest vehicles.</p>
             </div>
             <div class="footer-col">
